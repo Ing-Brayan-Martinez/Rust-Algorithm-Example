@@ -1,0 +1,11 @@
+[package]
+name = "rust-algoritm-example"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[lib]
+name = "rust_algoritm_example"
+path = "src/lib.rs"
