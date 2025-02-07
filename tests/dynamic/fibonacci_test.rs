@@ -1,4 +1,4 @@
-use rust_algoritm_example::dynamic::fibonacci::fibonacci;
+use rust_algorithm_example::dynamic::fibonacci::fibonacci;
 
 #[test]
 fn fibonacci_test() {

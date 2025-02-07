@@ -1,7 +1,7 @@
 
 #[cfg(test)]
 mod tests {
-    use rust_algoritm_example::suma::suma;
+    use rust_algorithm_example::suma::suma;
 
     #[test]
     fn test_suma() {

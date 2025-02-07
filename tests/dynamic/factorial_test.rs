@@ -1,4 +1,4 @@
-use rust_algoritm_example::dynamic::factorial::factorial;
+use rust_algorithm_example::dynamic::factorial::factorial;
 
 #[test]
 fn factorial_test() {

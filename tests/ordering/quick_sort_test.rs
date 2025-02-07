@@ -1,6 +1,6 @@
-use rust_algoritm_example::ordering::quick_sort::quick_sort;
-use rust_algoritm_example::util::data::get_data;
-use rust_algoritm_example::util::data::print_data;
+use rust_algorithm_example::ordering::quick_sort::quick_sort;
+use rust_algorithm_example::util::data::get_data;
+use rust_algorithm_example::util::data::print_data;
 
 #[test]
 fn quick_sort_test() {

@@ -1,14 +1,14 @@
-use rust_algoritm_example::dynamic::pattern::get_element_string;
-use rust_algoritm_example::dynamic::pattern::Div;
-use rust_algoritm_example::dynamic::pattern::Element;
-use rust_algoritm_example::dynamic::pattern::HtmlElement;
-use rust_algoritm_example::dynamic::pattern::HtmlLiteral;
-use rust_algoritm_example::dynamic::pattern::Image;
-use rust_algoritm_example::dynamic::pattern::InternalElement;
-use rust_algoritm_example::dynamic::pattern::Nothing;
-use rust_algoritm_example::dynamic::pattern::Paragraph;
-use rust_algoritm_example::dynamic::pattern::Span;
-use rust_algoritm_example::dynamic::pattern::Text;
+use rust_algorithm_example::dynamic::pattern::get_element_string;
+use rust_algorithm_example::dynamic::pattern::Div;
+use rust_algorithm_example::dynamic::pattern::Element;
+use rust_algorithm_example::dynamic::pattern::HtmlElement;
+use rust_algorithm_example::dynamic::pattern::HtmlLiteral;
+use rust_algorithm_example::dynamic::pattern::Image;
+use rust_algorithm_example::dynamic::pattern::InternalElement;
+use rust_algorithm_example::dynamic::pattern::Nothing;
+use rust_algorithm_example::dynamic::pattern::Paragraph;
+use rust_algorithm_example::dynamic::pattern::Span;
+use rust_algorithm_example::dynamic::pattern::Text;
 
 #[test]
 fn pattern_test() {

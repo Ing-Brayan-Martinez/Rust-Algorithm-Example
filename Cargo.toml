@@ -1,5 +1,5 @@
 [package]
-name = "rust-algoritm-example"
+name = "rust-algorithm-example"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,5 +7,5 @@ edition = "2021"
 
 
 [lib]
-name = "rust_algoritm_example"
+name = "rust_algorithm_example"
 path = "src/lib.rs"

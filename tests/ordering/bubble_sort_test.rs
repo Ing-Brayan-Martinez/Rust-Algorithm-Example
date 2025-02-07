@@ -1,6 +1,6 @@
-use rust_algoritm_example::ordering::bubble_sort::bubble_sort;
-use rust_algoritm_example::util::data::get_data;
-use rust_algoritm_example::util::data::print_data;
+use rust_algorithm_example::ordering::bubble_sort::bubble_sort;
+use rust_algorithm_example::util::data::get_data;
+use rust_algorithm_example::util::data::print_data;
 
 #[test]
 fn bubble_sort_test() {

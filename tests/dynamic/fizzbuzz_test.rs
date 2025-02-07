@@ -1,4 +1,4 @@
-use rust_algoritm_example::dynamic::fizzbuzz::fizzbuzz;
+use rust_algorithm_example::dynamic::fizzbuzz::fizzbuzz;
 
 #[test]
 fn fizzbuzz_test() {
